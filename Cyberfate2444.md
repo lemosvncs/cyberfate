@@ -117,6 +117,7 @@ Engenharia & Robótica
 Custo: 1
 
 # Cibercoisas
+
 Custo
 Aspecto que justifique; Kit Coração e Processamento
 
@@ -124,9 +125,12 @@ Cibercoração (2)
 Fornece a energia e controle das próteses; não é necessário para próteses simples
 Adicionalmente você pode comprar “Sobrecarga (2 - 6)”.
 
-Menores (custo 1 para cada 3 aumentos)
+## Menores (custo 1 para cada 3 aumentos)
 Ciber-olho: +1 em testes de Percepção. Adicionalmente escolha um dos seguintes aspectos. Outros aspectos podem ser comprados como outras cibercoisas menores.
     Filtro de Imagem - Visão em baixa-luminosidade - Sonar - Interface de Mira - Imagem termal - Interface de Rede - Zoom - Sentido Aumentado (escolher sentido)
+
+Ciber-ouvidos: +1 em testes de Percepção (com audição).
+  Audição Aprimorada
 
 Unhas de Navalha: Auto-explicativo. Arma +1.
 
@@ -150,6 +154,12 @@ Par de pernas mecânicas. Move duas zonas em uma ação. + 2 em testes de atleti
 
 - Dash
 
+- Pulo
+
+- Escalar
+
+-
+
 Ciberbraços: dois braços (e mãos) mecânicos. +2 em testes de forças e escalar.
 Interface: habilidade de se conectar com computadores
 Soco Pneumático
@@ -160,28 +170,98 @@ Soco Pneumático
 
 # Artes Marciais
 
-Artes Marciais
-Kung-fu
-Mestre Bêbado
-Ninjutsu
+Cada arte marcial constitui um conjunto de façanhas que custam um ponto cada.
 
+## Mestre Bêbado
 
+### O Cambalear do Bêbado:
 
+Você é capaz de usar atletismo parar se defender - enquanto estiver bêbado. Você balança e cambaleia, evadindo os ataques do inimigo ao acaso. Quando você tem sucesso em uma jogada defensiva de atletismo usando esta técnica, você ganha *+1* no seu próximo ataque contra o oponente que tentou te atingir. Se você tiver um *sucesso com estilo*, ganhe *+2*.
 
+### O Empurrão do Bêbado:
 
----------------------------------------------------------------------------------------------
-Pernas
-        Força (2 para cada 1 de bônus)
-        Pulo (1)
-Braços
-Força (2 para cada 1 de bônus)
-Prestidigitação (1)
-Kit de Ladinagem (1)
-    Neuro
-        Computador (1)
-        Percepção Extra-sensorial
-    Sensório
-    Ampliar sentidos
+Seu empurrão, rude e sem técnica, tem mais poder do que parece possível. Você ganha *+2* ao usar *Corpo* para *criar um vantagem* em um inimigo, desequilibrando-o.
 
-Corpo
-    Blindagem (2 para cada 1)
+### Beber do Jarro:
+
+Você faz uma pausa para beber vinho de uma jarra, fortificando-se para a batalha. Quando você bebe durante uma luta, limpe a menor caixa de estresse. Isso requer que você tome uma ação completa bebendo.
+
+### O Bêbado Caindo (Requer "O Cambalear do Bêbado"):
+
+Quando um inimigo te ataca, você perde o equilíbrio e cai no chão, rolando. Mas agora o inimigo precisa estender a postura. Com sucesso, coloque um *Impulso* (*Boost*), como "Sem equilíbrio", que qualquer um pode usar contra ele.
+
+### O Bêbado Balança Largo (Requer "O Empurrão do Bêbado"):
+
+Seus golpes são crus e telegrafados, mas ao desviar, o oponente é golpeado por um cotovelo ou joelho por acidente. Faça um teste de Luta, normalmente. Se você atingir o oponente, você causa o estresse normal. Se você errar ou empatar, seu oponente leva um estresse físico de qualquer maneira.
+
+### Entornando Vinho (requer "Beber do Jarro"):
+
+Você pega um copo e coloca bebida do jarro. Esta tarefa elaborada e difícil faz com que a batalha tenha uma pausa. Ninguém pode te atacar enquanto você coloca a bebida no copo e você remove o menor estresse. Esta técnica requer uma ação completa e você não pode fazê-la duas vezes seguidas.
+
+### O Tropeçar do Bêbado (requer "O Bêbado Caindo"):
+
+Você cambaleia e tropeça sem controle, mas seu inimigo sempre parece te errar e acertar um obstáculo perto, causando dano a eles mesmos. Quando você desvia de um golpe usando atletismo, seu oponente toma um estresse de dano, ou dois, se você tiver um sucesso com estilo.
+
+## Mestre do Bordão
+
+Você é capaz de usar um bordão para quebrar armaduras e ossos, enquanto parece um pessoa com problema de coluna.
+
+### Manter Distância
+
+Você é capaz de usar *armas-brancas* para se defender, ao usar um bordão. Se você se defender com sucesso de um ataque, você terá *+1* na próxima jogada de defesa contra este inimigo, ou *+2*, se for um sucesso com estilo.
+
+### Derrubar (requer Manter Distância)
+
+Desfira um golpe contra as pernas do inimigo, tirando-lhe o equilíbrio. Você ganha *+2* ao usar o bordão para desequilibrar o inimigo (criar vantagem). Com sucesso, ganhe um boost que pode ser usado por qualquer um.
+
+### Desarmar
+
+Você é especialmente bom em desarmar oponentes usando um bordão. Ao tentar criar a vantagem desarmar, você tem um bônus de +2.
+
+### Quebrar Armaduras (Requer Desarmar)
+
+Você é capaz de usar o efeito alavanca criado pelo bordão para quebrar os pontos fracos da armadura do oponente, como presilhas, despindo-o. Use Criar Vantagem para tirar a armadura do oponente. Com um sucesso com estilo a armadura estará permanentemente quebrada.
+
+### Quebrar Ossos (requer "Quebrar Armaduras")
+
+Você é capaz de usar o efeito alavanca criado pelo bordão para quebrar os ossos do seu opoente. Gaste um ponto de *Destino* para atacar diretamente a Consequência do inimigo, fazendo-o ignorar caixas de estresse.  
+
+## Lanceiro
+
+### Estocadas Rápidas
+
+Você faz pequenos ataques com a lanca, para manter o inimigo longe. Desfira um golpe com *-1* ou *-2*. Independente do acerto, você ganha o que perdeu em defesa no próximo ataque do inimigo.
+
+### Lança Montado
+
+Ao atacar de uma montaria (que pode ser um veículo que permite o livre movimento de um dos braços), você tem *+4* no ataque, que é feito com a perícia *Pilotar*, ao invés de armas brancas.
+
+## Robojutsu
+
+Utilize o metal de suas próteses como armas.
+
+### Sinergia com o Metal
+
+Você é capaz de usar as partes metálicas de seu corpo para se defender. Ganhe *+1* em jogadas de defesa usando briga.
+
+### Golpe Quente
+
+Você causa uma sobrecarga em sua prótese, fazendo com que ela esquente. Faça um teste de criar vantagem (engenharia), com sucesso você ganha *+1* nos próximos ataques. O nível de sucesso determina a quantidade de turnos.
+
+### Desviar Projéteis (requer "Sinergia com o Metal")
+
+Use briga para se defender de projéteis vindos em sua direção.
+
+## Cinema Chinês
+
+Você luta como se tivesse cabos amarrados nas costas.
+
+### Grande Impulso
+
+Use do ambiente para impulsionar seu salto. Com sucesso, você pode mudar de zona de combate sem sofrer ataques. A dificuldade é definida pelo número de oponentes.
+
+### Golpe Aéreo (requer "Grande Impulso")
+
+Salte sobre os inimigo, realizando ataques ao cair. Com sucesso no pulo (atletismo), ganhe *+2* no próximo ataque.
+
+## Armas Improvisadas
