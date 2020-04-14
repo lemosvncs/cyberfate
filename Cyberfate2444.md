@@ -1,13 +1,13 @@
 # Magia e Cibermagia
 
-No universo de Ciberfate 2444 significa que você é capaz de entrar em contato, usar e controlar uma fonte de energia incompreensível.
+No universo de CiberDestino 2444 significa que você é capaz de entrar em contato, usar e controlar uma fonte de energia incompreensível.
 Até onde vai os contos dos bardos, existem duas fontes distintas de magia, as linhas de Ley, fonte da Magia Arcana e a Bateria Primordial, fonte da Cibermagia.
 
-Para ser capaz de usar uma das fontes de magia, você deve ter um Aspecto que justifique sua conexão, além de comprar, com pontos de Refresh, um dos seguintes Extras:
+Para ser capaz de usar uma das fontes de magia, você deve ter um Aspecto que justifique sua conexão, além de comprar, com pontos de Recarga, um dos seguintes Extras:
 
 ### Ver as Linhas de Ley
 
-Custo: Aspecto e 2 pontos de Refresh.
+Custo: Aspecto e 2 pontos de Recarga.
 
 Você enxerga as linhas de Ley e consegue utilizá-las como uma fonte de energia para fazer suas magias. Estas linhas de energia estão por todo o mundo e certamente conectam alguma coisa a outra alguma coisa, mas ninguém foi capaz de descobrir o que a que. Além disso, geralmente há linhas de Ley o suficiente para fazer qualquer magia reconhecida, mas sua distribuição não é uniforme. Podem existir locais com poucas linhas, bem como locais altamente concentrados de magia, como o interior da Taverna Não-euclidiana.
 
@@ -17,7 +17,7 @@ Ver as linhas de Ley te permite usar magias das seguintes escolas: *abjuração*
 
 ### API da Bateria Primordial
 
-Custo: Aspecto e 2 pontos de Refresh.
+Custo: Aspecto e 2 pontos de Recarga.
 
 Usando os nanorobôs em seu(s) cérebro(s), você é capaz de entrar em contato com um software que fica em um servidor em... algum lugar. Você é capaz de fazer uma requisição de energia que é capaz de ligar aparatos e operações poderosas com nanorobôs e robôs. Então, a API de devolve essa energia através... do ar? Ainda estamos tentando entender como tudo isto funciona, mas, ei, energia grátis. Ou pelo menos ainda não mandaram a conta...
 
@@ -28,9 +28,9 @@ Usar a API primordial te permite usar as seguintes escolas de Magia: *matéria*,
 
 ## Escolas de Magia
 
-Cada nova escola custa 1. Você também pode gastar 1 ponto a mais de refresh e comprar 3 feitiços, que são utilizações específicas de cada escola que não necessita de pontos de Fate para utilizar (a menos que se diga o contrário).
+Cada nova escola custa 1. Você também pode gastar 1 ponto a mais de Recarga e comprar 3 feitiços, que são utilizações específicas de cada escola que não necessita de pontos de Destino para utilizar (a menos que se diga o contrário).
 
-*Dica: você pode criar **stunts** para criar feitiços decorados que não requerem pontos de Fate para usar*.
+*Dica: você pode criar **stunts** para criar feitiços decorados que não requerem pontos de Destino para usar*.
 
 ### Abjuração
 
@@ -86,6 +86,12 @@ A gente não sabe bem como as outras magias funcionam. Mas essa não temos a men
 Você pode alterar características básicas da realidade, especialmente as relacionadas ao espaço. Simples assim. Agora luzes iluminam metade do que deveriam. Agora a gravidade está mais alta. Já pensou se objetos orgânicos fossem magnéticos? Especialmente útil para criar vantagens em situações desesperadas.
 
 Mas atenção: alterar a realidade é complicado. Muito complicado. As pessoas até conseguem, mas raramente tem conhecimento o suficiente e sofrem consequências graves. *(Isso quer dizer: é uma escola difícil, os testes de perícia vão ter valores altos. Você pode tentar, falhar e escolher um sucesso, mas sofrerá as consequências disso. Mas vai que você dá sorte e tira +4 nos dados. A gente pode viver na gravidade da lua...)*
+
+### Vida
+
+Você tem influência e conhecimento sobre os aspectos fundamentais da vida orgânica. Com isso, você pode interferir em processos metabólicos e pode perceber a vida de maneira que a maioria das criaturas não percebe. Você é capaz de fazer coisas como acelerar o processo de cura, correr mais alto, se alterar a emoção das pessoas.
+
+
 
 Feitiços:
 
