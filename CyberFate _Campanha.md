@@ -52,6 +52,7 @@ Se obtiverem sucesso em adentrar à taverna, a mesma estará em apuros e sofrer�
 
 #### NPCs Inimigos:
 
+
   **Print-and-play Robot (Manequim)** (Regular) x2
 
   *Aspectos:*: Robô imprimível feito de plástico
@@ -62,6 +63,7 @@ Se obtiverem sucesso em adentrar à taverna, a mesma estará em apuros e sofrer�
 
   *Consequências*: //
 
+
   **Caçador Onírico: Strom**
 
   *Competência*: Investigador do Fábio
@@ -71,6 +73,7 @@ Se obtiverem sucesso em adentrar à taverna, a mesma estará em apuros e sofrer�
   *Perícias*: Investigação (+2), Percepção (+1)
 
   *Estresse*: 1 []
+  
 
   **Spot-Aríete** (Bom)
 
