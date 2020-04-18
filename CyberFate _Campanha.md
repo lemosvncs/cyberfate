@@ -34,6 +34,13 @@ A verdade: Regan está tentando criar um *array* de comunicação capaz de detec
 
 ### Cena 1: A Taverna Não-euclidiana
 
+
+Um grupo de capangas do Fábio, com conhecimentos básicos sobre magia (um humano ocultista) vai até a Taverna Não-euclidiana depois do fuzuê causados pelos jogadores na sessão passada.
+
+Eles descobriram a entrada da Taverna por Fábio ter tido acesso à memória de Peridot.
+
+Se obtiverem sucesso em adentrar à taverna, a mesma estará em apuros e sofrerá constantes ataques.
+
 #### Aspectos:
 
 
@@ -43,51 +50,124 @@ A verdade: Regan está tentando criar um *array* de comunicação capaz de detec
 
   - Passagem escondida no banheiro
 
-#### NPCs:
+#### NPCs Inimigos:
 
-**Print-and-play Robot (Manequim)** (Regular) x2
-*Aspectos:*: Robô imprimível feito de plástico
-*Perícias*: Briga [Aríete] (+1); Atletismo (+1)
+  **Print-and-play Robot (Manequim)** (Regular) x2
+
+  *Aspectos:*: Robô imprimível feito de plástico
+
+  *Perícias*: Briga [Aríete] (+1); Atletismo (+1)
+
+  *Estresse Físico*: 1[]
+
+  *Consequências*: //
+
+  **Caçador Onírico: Strom**
+
+  *Competência*: Investigador do Fábio
+
+  *Aspectos*: Humano com prótese neural; Investigador competente
+
+  *Perícias*: Investigação (+2), Percepção (+1)
+
+  *Estresse*: 1 []
+
+  **Spot-Aríete** (Bom)
+
+  *Competência*: Robô de Baixo-custo feito para proteger o Olho
+
+  *Aspectos:*: Robô-cachorro da Macapá Dynamics; Armado com um aríete/porrete
+
+  *Perícias*: Briga [Aríete] (+3); Atletismo (+2); Vigor (+1); Percepção (+1)
+
+  *Estresse Físico*: 1[] 2[] 3[]
+
+  *Consequências*: //
+
+  **Spot-Lanceiro** (Bom)
+
+  *Aspectos:*: Robô-cachorro da Macapá Dynamics; Armado com uma lança
+
+  *Perícias*: Armas Brancas [Lança] (+3); Atletismo (+2); Percepção (+1)
+
+  *Estresse Físico*: 1[] 2[] 3[]
+
+  *Consequências*: //
+
+  **Drone: Olho** (Razoável)
+
+  *Aspectos:*: Olhos de Fábio; Antena Potente; Voador
+
+  *Perícias*: Percepção (+2); Atletismo (+1)
+
+  *Estresse Físico*: 1[]
+
+  *Consequências*: //
+
+#### NPCs Aliados:
+
+**Robô Talita**
+
+*Aspectos:*: Replicante feita para proteger o bar; tentando esquecer o marido
+
+*Perícias*: Empatia (+1); Percepção (+1)
+
 *Estresse Físico*: 1[]
+
 *Consequências*: //
 
-**Caçador Onírico: Strom**
-*Competência*: Investigador do Fábio
-*Aspectos*: Humano com prótese neural; Investigador competente
-*Perícias*: Investigação (+2), Percepção (+1)
-*Estresse*: 1 []
+**Seu Euclides**
 
-**Spot-Aríete** (Bom)
-*Competência*: Robô de Baixo-custo feito para proteger o Olho
-*Aspectos:*: Robô-cachorro da Macapá Dynamics; Armado com um aríete/porrete
-*Perícias*: Briga [Aríete] (+3); Atletismo (+2); Vigor (+1); Percepção (+1)
-*Estresse Físico*: 1[] 2[] 3[]
-*Consequências*: //
+*Aspectos:*: Replicante dono do Bar do Seu Euclides, Secos e Molhados;
 
-**Spot-Lanceiro** (Bom)
-*Aspectos:*: Robô-cachorro da Macapá Dynamics; Armado com uma lança
-*Perícias*: Armas Brancas [Lança] (+3); Atletismo (+2); Percepção (+1)
-*Estresse Físico*: 1[] 2[] 3[]
-*Consequências*: //
+*Perícias*: Ofícios (Cozinheiro) (+1); Briga (+1)
 
-**Drone: Olho** (Razoável)
-*Aspectos:*: Olhos de fábio; Antena Potente; Voador
-*Perícias*: Percepção (+2); Atletismo (+1)
 *Estresse Físico*: 1[]
+
 *Consequências*: //
 
-Um grupo de capangas do Fábio, com conhecimentos básicos sobre magia (um humano ocultista) vai até a Taverna Não-euclidiana depois do fuzuê causados pelos jogadores na sessão passada.
+**Jorginho**
 
-Eles descobriram a entrada da Taverna por Fábio ter tido acesso à memória de Peridot.
+*Aspectos:*: Replicante Brutamente Deprimido;
 
-Se obtiverem sucesso em adentrar à taverna, a mesma estará em apuros e sofrerá constantes ataques.
+*Perícias*: Briga (+1); Vigor (+1)
+
+*Estresse Físico*: 1[] 2[]
+
+*Consequências*: //
 
 ### Cena 2: Dentro do Beco
 
-Se os capangas de Fábio conseguirem entar no becvo, ele saberá pra sempre a entrada. Mas lá dentro os personagens tem maior poder defesa, incluindo as linhas de Ley.
+Se os capangas de Fábio conseguirem entrar no beco, ele saberá pra sempre a entrada. Mas lá dentro os personagens tem maior poder defesa, incluindo as linhas de Ley.
 
 
+#### Aspectos:
 
+- Convergências das Linhas de Ley
+
+- Espaço Não-euclidiano
+
+- Tomada Primordial (Na forja)
+
+#### NPCs Aliados:
+
+**"Gnomo"**
+*Aspectos:*: Ser de uma dimensão fantástica; Full Body Conversion; 2.30m de inteligência; Equipamento de Forja Fantástico; Protetor da Tomada Primordial; Literalmente não pode brigar (fez um trato com entidades mecânicas que o deram esse corpo)
+*Perícias*: Engenharia (+4);
+*Estresse Físico*: 1[] 2[] 3[] 4[]
+*Consequências*: //
+
+**Líder da Guilda Ragnarok: Liandra**
+*Aspectos:*: Líder da Guilda Ragnarok; Investigador de Aluguel; Contador
+*Perícias*: conhecimento-contabilidade (+4); Briga (+3); Atletismo (+1)
+*Estresse Físico*: 1[] 2[] 3[] 4[]
+*Consequências*: //
+
+**Herbalista**
+
+**Padre**
+
+**BLK**
 
 ## Distorção Temporal
 
