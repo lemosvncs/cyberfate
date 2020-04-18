@@ -87,12 +87,6 @@ Você pode alterar características básicas da realidade, especialmente as rela
 
 Mas atenção: alterar a realidade é complicado. Muito complicado. As pessoas até conseguem, mas raramente tem conhecimento o suficiente e sofrem consequências graves. *(Isso quer dizer: é uma escola difícil, os testes de perícia vão ter valores altos. Você pode tentar, falhar e escolher um sucesso, mas sofrerá as consequências disso. Mas vai que você dá sorte e tira +4 nos dados. A gente pode viver na gravidade da lua...)*
 
-### Vida
-
-Você tem influência e conhecimento sobre os aspectos fundamentais da vida orgânica. Com isso, você pode interferir em processos metabólicos e pode perceber a vida de maneira que a maioria das criaturas não percebe. Você é capaz de fazer coisas como acelerar o processo de cura, correr mais alto, se alterar a emoção das pessoas.
-
-
-
 Feitiços:
 
 (Ei, você está tentando gravar uma realidade alterada em sua mente, faça por sua conta e risco).
@@ -109,11 +103,15 @@ Feitiços:
 
 - E = 1/2 m * c^2. Uma vez por sessão você é capaz de diminuir todo dano de energia pela metade em uma zona.
 
-Tempo
-Acelerar, alterar, diminuir a passagem do tempo. Clarividência, percepção do futuro.
-Custo: 1
+### Gaia
 
+Você tem uma ligação com a Terra e seus aspectos fundamentais. Com isso, você é capaz alterar o clima e invocar fenômenos naturais.
 
+Feitiços:
+
+- Invocar Relâmpago:
+
+- Invocar Tremores: esses tremores não causam dano diretamente, mas você pode usálos para criar vantagens (como desequilíbrio, objetos quebrados, etc.)
 
 Nanomagia
 Alterar química corporal, criar pequenos mecanismos e itens.
