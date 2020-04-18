@@ -53,7 +53,7 @@ Se obtiverem sucesso em adentrar à taverna, a mesma estará em apuros e sofrer�
 #### NPCs Inimigos:
 
 
-  **Print-and-play Robot (Manequim)** (Regular) x2
+**Print-and-play Robot (Manequim)** (Regular) x2
 
   *Aspectos*: Robô imprimível feito de plástico
 
@@ -64,7 +64,7 @@ Se obtiverem sucesso em adentrar à taverna, a mesma estará em apuros e sofrer�
   *Consequências*: //
 
 
-  **Caçador Onírico: Strom**
+**Caçador Onírico: Strom**
 
   *Competência*: Investigador do Fábio
 
@@ -75,7 +75,7 @@ Se obtiverem sucesso em adentrar à taverna, a mesma estará em apuros e sofrer�
   *Estresse*: 1 []
 
 
-  **Spot-Aríete** (Bom)
+**Spot-Aríete** (Bom)
 
   *Competência*: Robô de Baixo-custo feito para proteger o Olho
 
@@ -87,7 +87,7 @@ Se obtiverem sucesso em adentrar à taverna, a mesma estará em apuros e sofrer�
 
   *Consequências*: //
 
-  **Spot-Lanceiro** (Bom)
+**Spot-Lanceiro** (Bom)
 
   *Aspectos:*: Robô-cachorro da Macapá Dynamics; Armado com uma lança
 
@@ -97,7 +97,7 @@ Se obtiverem sucesso em adentrar à taverna, a mesma estará em apuros e sofrer�
 
   *Consequências*: //
 
-  **Drone: Olho** (Razoável)
+**Drone: Olho** (Razoável)
 
   *Aspectos:*: Olhos de Fábio; Antena Potente; Voador
 
@@ -138,6 +138,21 @@ Se obtiverem sucesso em adentrar à taverna, a mesma estará em apuros e sofrer�
 *Estresse Físico*: 1[] 2[]
 
 *Consequências*: //
+
+
+#### Consequências:
+
+- Joy limpando o bar e falando com a população -> corpos no carro
+
+- Lonny fazendo manutenção
+
+- Jáqui dando lição de moral
+
+- Peridot cobre o robô pra impedir câmeras
+
+- Robô Spot mandando sinal de GPS pro Fábio
+
+-
 
 ### Cena 2: Dentro do Beco
 
