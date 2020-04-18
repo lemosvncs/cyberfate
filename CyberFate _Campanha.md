@@ -55,7 +55,7 @@ Se obtiverem sucesso em adentrar à taverna, a mesma estará em apuros e sofrer�
 
   **Print-and-play Robot (Manequim)** (Regular) x2
 
-  *Aspectos:*: Robô imprimível feito de plástico
+  *Aspectos*: Robô imprimível feito de plástico
 
   *Perícias*: Briga [Aríete] (+1); Atletismo (+1)
 
@@ -73,7 +73,7 @@ Se obtiverem sucesso em adentrar à taverna, a mesma estará em apuros e sofrer�
   *Perícias*: Investigação (+2), Percepção (+1)
 
   *Estresse*: 1 []
-  
+
 
   **Spot-Aríete** (Bom)
 
