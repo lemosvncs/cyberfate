@@ -187,6 +187,31 @@ Se os capangas de Fábio conseguirem entrar no beco, ele saberá pra sempre a en
 
 **BLK**
 
+## Bar Ferro Queimado
+
+Minotauro é uma das pessoas que está construindo equipamentos de comunicação pro fábio.
+
+Minotauro também é uma das pessoas que conseguem trazer pessoas pra dentro da cidade e levar outras pra fora, justamente por ter uma linha de montagem secreta.
+
+Fato é que Minotauro está usando agindo como um Coiote pra trazer pessoas pra dentro da cidade. Boa parte delas vai pras fábricas mais pobres da cidade (Minotauro ganha favores por isso), outra parte (cinco trabalhadores) fica na própria fábrica pessoal dele.
+
+### Aspectos:
+
+- Bartender tem uma "Bola de Fogo" [item], e irá usá-lo caso seja provocado.
+
+- Câmeras em todos os cômodos
+
+- Clientes fiéis
+
+- Som alto (dificulda a audição do Fábio)
+
+- Ambiente sujo e mal cuidado. Ou o chão está escorregadio ou está grudento.
+
+
+### Itens:
+
+- Bola de Fogo: bucaneira com projétil que explode ao impacto. +3 para ataques com armas de tiro e um ataque +1 em pessoas próximas.
+
 ## Distorção Temporal
 
 ##$ Cena 1:
