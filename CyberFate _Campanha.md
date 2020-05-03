@@ -28,7 +28,7 @@ Agora Regan começa a operar de maneira esquisita, reuinindo equipamentos comuni
 
 A verdade: Regan está tentando criar um *array* de comunicação capaz de detectar linhas de Ley, que por sua vez será usado para encontrar a próxima Philacteria.
 
-## Capítulo 1: Fábrica de Baterias
+## Ato 1: Fábrica de Baterias
 
 ## Capítulo 2: Invasão
 
@@ -187,7 +187,7 @@ Se os capangas de Fábio conseguirem entrar no beco, ele saberá pra sempre a en
 
 **BLK**
 
-## Bar Ferro Queimado
+## Capítulo 2: Bar Ferro Queimado
 
 Minotauro é uma das pessoas que está construindo equipamentos de comunicação pro fábio.
 
@@ -207,10 +207,51 @@ Fato é que Minotauro está usando agindo como um Coiote pra trazer pessoas pra 
 
 - Ambiente sujo e mal cuidado. Ou o chão está escorregadio ou está grudento.
 
+## Quando for útil: JG-209
+
+Robô de patrulha do tamanho de um carro está à procura dos jogadores.
 
 ### Itens:
 
 - Bola de Fogo: bucaneira com projétil que explode ao impacto. +3 para ataques com armas de tiro e um ataque +1 em pessoas próximas.
+
+## Consequências:
+
+- Não descobriram para que serve o equipamento de comunicação
+
+- Escravos libertos (detalhas escravos)
+
+  - Algum deles sabem pra que serve os comunicadores
+
+- Caminhão com Inteligência artificial (detalhas IA do caminhão)
+
+- Contataram um mago pra desenvolver um sistema de alarme pro beco. Esse mago não é confiável.
+
+
+## Capítulo 3: Fortaleza Vulcânica
+
+Infelizmente nossos heróis não foram capazes de descorbri de maneira rápida ou inteligente a função dos equipamentos de comunicação. Certamente a confusão que causaram serviu para desacelerar os planos de Regan, mas estes ainda continuam.
+
+Regan leva os equipamentos de comunicação para uma Fortaleza subindo a montanha de Nova Noviguaçu, de forma a usar diversas antenas em array para identificar outras partes de sua inteligência/alma/philacterias.
+
+Os jogadores, através da inteligência artifical do caminhão ou através dos escravos descobrem a localização desta fortaleza e devem ir até ela, numa missão silenciosa, roubar os planos de fábio ou atrapalhá-los.
+
+AO mesmo tempo, devem decidir como os recursos da Taverna devem ser alocados.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Distorção Temporal
 
