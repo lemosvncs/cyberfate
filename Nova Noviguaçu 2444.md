@@ -36,9 +36,9 @@ Hoje, no dia 17 (Electram), os **incêndios foram finalmente controlados**, com 
 
 Os incêndios foram controlados tanto por ciadadãos autônomos (o temor de fábio), quanto por entitades controladas por ele. Como consequências ao fogo, Fábio levantou uma **armada de robôs-cachorro da empresa "Macapá Dynamics"**, que vasculham a cidade em busca de quem pense de maneira independente.
 
-- Rosa³
+Por *Rosa³*
 
-### 2 Carta Aberta: Forças de Fábio Invadem Bar Local.**
+### 2. Carta Aberta: Forças de Fábio Invadem Bar Local.
 
 Por *Seu Euclides*
 
@@ -46,7 +46,7 @@ Numa tentativa frustrada de encontrar quem quer que tenha ateado fogo às fábri
 
 Meu Bar estará aberto 24/7 como uma forma de resistência à essa criatura nefasta que tenta controlar os pequenos prazeres do trabalhador. Mas não vão conseguir.
 
-### 3 O Controle Mental de Fábio
+### 3. O Controle Mental de Fábio
 
 Pesquisas recentes tem demonstrado que **Fábio é capaz de controlar -- literalmente -- a mente e os sentidos de indivíduos que cedem sua vontade à ele**. Pouco se sabe sobre como ele é capaz de fazer, além de, lógico, estar relacionado à dispositivos neuro-cibernéticos, tão comuns nos dias de hoje, e do controle direto de robôs. A forma mais segura de resistir à isso é não tendo um dispositivo cibernético. Mas sabemos que isso não é tão simples e muitos precisam de tais dispositivos para trabalhos cotidianos.
 
@@ -54,7 +54,7 @@ Outra forma de resistir ao controle é mentendo uma mente saudável através de 
 
 Mas parece que a situação pode se agravar nos próximos dias ou semanas. **Diferentes dispositivos de comunicação tem sido comprados por toda a cidade. Fontes indicam que isso é obra de Fábio e que ele pode estar criando um *array* de comunicação para expandir seu controle**. Talvez estes dispositivos também sejam usados para contactar *algo* fora da cidade de Nova-Noviguaçu. Infelizmente todas as tentativas de pará-lo foram infrutíferas.
 
-- Átila Azul.
+Por *Átila Azul*
 
 ### 4 Relatório Mágico da Professora Violeta
 
