@@ -60,3 +60,117 @@ Quando os jogadores entrarem no templo a primeira vez, eles verão um homem supl
 
 "Meu corpo não é um templo! É um vaso! Uma folha em branco, um disco vazio", disse com raiva que se transformou em choro. E continua:
 "Doutora, por favor... Eu faço qualquer coisa... me altere... me dê mais... eu quero ver o mundo de maneira diferente".
+
+# O Porto de Itaguaí
+
+O principal objetivo desta fase da campanha é descobrir o artefato e, se possível, pará-lo.
+
+O artefato é um halo que permite a criação de um portal entre dimensões espaciais. Inicialmente construído para ficar em órbita e ligar dois locais. O halo é foi construído em uma linha temporal alternativa e caiu na terra como um efeito de distorção mágica quando esta realidade deixou de existir, e, portanto, é uma Causa Sem Consequências (CSC). Dr. Abeatriz foi quem descobriu o anel, ao analisar a existência de correntes submarinas. Tendo estas coisas em vista, a ativação total ou parcial do anel pode trazer diversas consequências como:
+
+1. Ligação entre a terra-presente [1+223i, 0] com a terra futura [1+223i, +9849], criando a dimensão paralela (1+224i), que é uma Consequência Antes da Causa (CAC), por já existir. Portanto, no final, existirá a terra alagada (1+223i) e a terra deserta (1+224i).
+
+2. A Policia Temporal ficará ciente do distúrbio temporal, podendo, inclusive, acionar o BOTE, Batalhão de Operações Temporais.
+
+3. A Lei de Gravitação Temporal determina que o desnível temporal entre as terras 1+223i e 1+224i faça um pequeno desnível gravitacional em direção à terra original, drenando a água do futuro em direção ao passado.
+
+A não ativação do anel trará as seguintes consequências:
+
+1. A não criação da terra paralela 1+224i, transformando-a em uma CSC.
+
+2. A Quebra-da-Corrente vira uma CSC.
+
+O porto de Itaguaí é a principal base de pesquisa sobre o anel, que se dá em duas frontes. O Dr. Abeatriz faz a linha "limpa" de pesquisa, pesquisando sobre como o aumento do nível do mar se dá por efeitos climáticos e o quanto se dá por efeitos mágicos.
+
+Dr. Abeatriz não gosta da família flores, especialmente pelo fanatismo religioso. Porém, ele aceitou a família como parceira para investigar o Anel pois a Varoa Azaléia foi capaz de fornecer pessoal capaz de investigar o artefato sem a necessidade de grandes investimentos tecnológicos. Dr. Abeatriz fez parcerias com criadores de NNi (como o Geovaldo, morto) para criação de um submarino, equipamentos de mergulho e submarinos autônomos capazes de realizar reparos. No entanto, o submarino ainda não está completamente reformulado, e exige uma equipe treinada, e os equipamentos de mergulho tem duração limitada. Este pouco acesso direto ao Anel dá bom acesso à equipe da Varoa sem levantar muitas suspeitas.
+
+Dr. Abeatriz também está em contato com o porto de Santos para criações destres drones e insumos para criação de um laboratório submarino.
+
+A segunda linha é um grupo de engenheiros fanático-religiosos sob tutela do Pastor Everaldo e da Varoa Azaléia. Estes engenheiros são um grupo de 4 humanos modificados através de terapia genética para respirar embaixo d'água e suportar grande pressão. Eles são versados em cibermagia e estão focados em reconstruir o anel para que ele sugue a água da terra 1+224i.
+
+> O que Dr. Abeatriz sabe: o aumento do nível do mar se deu por um feedback de efeitos mágicos e climáticos no meio do século XXI. Mas para todos os cálculos, os efeitos já deveriam ter passado. Além disso, Dr. Abeatriz diz que o nível do mar não condiz com a quantidade de geleiras existentens ou vapor d'água na atmosfera, sugerindo que há "mais água do que deveria". Seguindo esta linha de raciocínio, Dr. Abeatriz desconfia que existe uma corrente de águas submarinas que nasce próximo à costa do Rio de Janeiro, o que por sua vez sugere uma possível ligação com o halo.
+
+Locais:
+
+1. Estaleiro: navio cargueiro de Santos, barca de Nikiti, mini submarino, central dos drones submarinos.
+
+2. Central de Mecânica.
+
+3. Central de Manutenção dos Submarinos Autônomos (SA).
+
+4. Laboratório Extramarino Seco (robótica, eletrônica e estrutural).
+
+5. Laboratório Molhado (Varoa e Bioengenheiros).
+
+6. Capela.
+
+7. Central de Comunicação.
+
+9. Administração
+
+8. Zona da Gabriela.
+
+10. Drone-porto.
+
+## Ameaças
+
+### Gabriela
+
+*Cérebros de crinças não batizadas*
+
+*Cabeças: corta-se uma, nascem-se braços.*
+
+*Três cabeças, uma ação para cada. Iniciativas diferentes*
+
+**Vigor**: 2[] 3[] 4[] 5[] 6[]
+
+**Vontade**: 2[] 3[]
+
+2[] 4[] 6[] 8[] 12[]
+
+Como uma chimera marítima, Gabriela é criação da engenharia genética que mistura animais para criar monstros. A base de Gabriela é um polvo gigante, que lhe garante oito braços em sua base, além da pele capaz de camuflagem básica e uma bolsa de tintas subdesenvolvida. Da base, parte-se para o corpo, que tem uma carapaça um pouco mais resistente, mais semelhante à de uma réptil terrestre. Do corpo surgem três cabeças que muito se assemelham às de jacarés, além dos dois braços repitilianos, que podem ser usados para se manter firme em terra.
+
+**Ações**:
+
+**Regeneração** (D). usa-se uma ação para regenerar uma consequência leve (ou duas ações para uma consequência moderada e três para uma consequência grave).
+
+**Bafo Congelante** (+4, D). a cabença central engole água e cospe um jato congelante que pode dar dano igual ao resultado e exige um teste resistido para não ser **imobilizado**. Atletismo 4 para evitar, ou vigor 2 para quebrar o gelo. Quebrar o gelo exige uma ação.
+
+**Garras** (+4). Ataque corpo-a-corpo cortante.
+
+**Agarrar com tentáculos** (+3). Gabriela pode agarrar até oito oponentes e levá-los ao mar com facilidade. Agarrar exige uma ação, movimentar os tentáculos são uma ação livre.
+
+### Adamastor, o Animorfo
+
+**Vigor**: 2[] 3[] 4[]
+
+**Vontade**: 2[]
+
+**Consequências**: 2[] 4[]
+
+#### Ações
+
+**Regeneração** (D). usa-se uma ação para regenerar uma consequência leve (ou duas ações para uma consequência moderada e três para uma consequência grave).
+
+**Sentir Pulsação**. O animorfo é capaz de identificar a pulsação do alvo com sensores especiais. Gastando uma ação, o próximo ataque terá alcance de um movimento e dobra o bônus de ataque.
+
+**Dentes de Sabre**. O animorfo cria focinhos e caninos capazes de atacar e agarrar o inimigo. Com um *sucesso com estilo* o animorfo crava suas garras na carne do inimigo, prendendo-o e exigindo uma ação **não resistida** para se livrar das presas. Se livrar com uma ação resistida causará um *ataque de oportunidade*.
+
+**Corpo Escorregadio**. Vantagem para sair de agarramentos.
+
+**Respiração debaixo d'água**
+
+### Orquídia, a Cultista
+
+**Vigor**: 2[] 3[] 4[]
+
+**Vontade**: 2[]
+
+**Consequências**: 2[] 4[]
+
+#### Ações
+
+**Necrose** (+2, 1/Cena). Faz um ataque que causa consequência.
+
+**Reviver**. Revive temporariamente um corpo (com estresse recuperado, mas todas as consequências).
+
+**Dobra de Sangue**. Controla o sangue da pessoa, paralizando-a. Com um *sucesso com estilo*, pode fazer com que a pessoa realize uma ação.
