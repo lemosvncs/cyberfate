@@ -59,9 +59,9 @@
 
   *Consequências*: //
 
-# Full Metal Minotaur
+## Full Metal Minotaur
 
-## Fase 1
+### Fase 1
 
 *Aspectos:*: Fábio é meu sugar Daddy e ele observa tudo o que faço; Farei o que for preciso pra proteger meu submundo; Conetado ao computador do bar
 
@@ -87,7 +87,7 @@
 
 - Olhos no bar: não pode ser surpreso dentro de seu bar
 
-## Fase 2
+### Fase 2
 
 Quando morre, minotauro entra em sua fase dois, onde Fábio utiliza de nanorobôs para reparar funções básicas de seu corpo. Todos as características anteriores se aplicam.
 
@@ -100,3 +100,23 @@ Quando morre, minotauro entra em sua fase dois, onde Fábio utiliza de nanorobô
 *Feitiços*: Aumentar temperatura corporal: deixa a própria armadura quente a ponto de incandescer. Ataques com briga tomam 1 automaticamente.
 
 *Martelo Surreal*: Realiza um ataque com o martelo utilizando-se de Magia. Dobra o dano. Uma vez por cena.
+
+## JG-209
+
+*Aspectos:*: Fortaleza Caminhante; lento
+
+*Perícias*:
+
+- Armas Brancas [Porrete] +5 (+6)
+
+- Atletismo (Força Bruta) +4
+
+*Estresse Físico*: 1[] 2[] 3[]
+
+*Consequências*: 2[] 4[] 6[] 6[] 6[] 6[]
+
+# Magos
+
+## Exas
+
+*Aspectos*
