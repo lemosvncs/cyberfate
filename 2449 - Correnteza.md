@@ -65,7 +65,7 @@ Quando os jogadores entrarem no templo a primeira vez, eles verão um homem supl
 
 O principal objetivo desta fase da campanha é descobrir o artefato e, se possível, pará-lo.
 
-O artefato é um halo que permite a criação de um portal entre dimensões espaciais. Inicialmente construído para ficar em órbita e ligar dois locais. O halo é foi construído em uma linha temporal alternativa e caiu na terra como um efeito de distorção mágica quando esta realidade deixou de existir, e, portanto, é uma Causa Sem Consequências (CSC). Dr. Abeatriz foi quem descobriu o anel, ao analisar a existência de correntes submarinas. Tendo estas coisas em vista, a ativação total ou parcial do anel pode trazer diversas consequências como:
+O artefato é um Anel que permite a criação de um portal entre dimensões espaciais. Inicialmente construído para ficar em órbita e ligar dois locais. O Anel foi construído em uma linha temporal alternativa e caiu na terra como um efeito de distorção mágica quando esta realidade deixou de existir, e, portanto, é uma Causa Sem Consequências (CSC). Dr. Abeatriz foi quem descobriu o anel, ao analisar a existência de correntes submarinas. Tendo estas coisas em vista, a ativação total ou parcial do anel pode trazer diversas consequências como:
 
 1. Ligação entre a terra-presente [1+223i, 0] com a terra futura [1+223i, +9849], criando a dimensão paralela (1+224i), que é uma Consequência Antes da Causa (CAC), por já existir. Portanto, no final, existirá a terra alagada (1+223i) e a terra deserta (1+224i).
 
@@ -81,9 +81,9 @@ A não ativação do anel trará as seguintes consequências:
 
 O porto de Itaguaí é a principal base de pesquisa sobre o anel, que se dá em duas frontes. O Dr. Abeatriz faz a linha "limpa" de pesquisa, pesquisando sobre como o aumento do nível do mar se dá por efeitos climáticos e o quanto se dá por efeitos mágicos.
 
-Dr. Abeatriz não gosta da família flores, especialmente pelo fanatismo religioso. Porém, ele aceitou a família como parceira para investigar o Anel pois a Varoa Azaléia foi capaz de fornecer pessoal capaz de investigar o artefato sem a necessidade de grandes investimentos tecnológicos. Dr. Abeatriz fez parcerias com criadores de NNi (como o Geovaldo, morto) para criação de um submarino, equipamentos de mergulho e submarinos autônomos capazes de realizar reparos. No entanto, o submarino ainda não está completamente reformulado, e exige uma equipe treinada, e os equipamentos de mergulho tem duração limitada. Este pouco acesso direto ao Anel dá bom acesso à equipe da Varoa sem levantar muitas suspeitas.
+Dr. Abeatriz não gosta da família flores, especialmente pelo fanatismo religioso. Porém, ele aceitou a família como parceira para investigar o Anel pois a Varoa Azaléia foi capaz de fornecer pessoal capaz de investigar o artefato sem a necessidade de grandes investimentos tecnológicos. Dr. Abeatriz fez parcerias com criadores de NNi (como o Geovaldo, morto) para criação de um submarino, equipamentos de mergulho e submarinos autônomos capazes de realizar reparos. No entanto, o submarino ainda não está completamente reformulado, e exige uma equipe treinada, e os equipamentos de mergulho tem duração limitada. Este pouco acesso direto ao Anel dá bom acesso à equipe da Varoa sem levantar muitas suspeitas. A produção de fato dos SA foi feita no porto de Santos, tendo em vista que NNi não teria condições de testá-los.
 
-Dr. Abeatriz também está em contato com o porto de Santos para criações destres drones e insumos para criação de um laboratório submarino.
+Dr. Abeatriz também está em contato com o porto de Santos para criações destes SAs e insumos para criação de um laboratório submarino.
 
 A segunda linha é um grupo de engenheiros fanático-religiosos sob tutela do Pastor Everaldo e da Varoa Azaléia. Estes engenheiros são um grupo de 4 humanos modificados através de terapia genética para respirar embaixo d'água e suportar grande pressão. Eles são versados em cibermagia e estão focados em reconstruir o anel para que ele sugue a água da terra 1+224i.
 
@@ -91,25 +91,67 @@ A segunda linha é um grupo de engenheiros fanático-religiosos sob tutela do Pa
 
 Locais:
 
-1. Estaleiro: navio cargueiro de Santos, barca de Nikiti, mini submarino, central dos drones submarinos.
+1. Estaleiro: navio cargueiro de Santos, barca de Nikiti, mini submarino, central dos drones submarinos (2 trabalhadores humanos).
 
-2. Central de Mecânica.
+> Navio atracado (tripulação: 12 robôs que não estão nem aí)
 
-3. Central de Manutenção dos Submarinos Autônomos (SA).
+> Guindastes de contêiner
 
-4. Laboratório Extramarino Seco (robótica, eletrônica e estrutural).
+> 2 Caras descarregando o Navio, um contêiner por vez, usando um cibertruck
 
-5. Laboratório Molhado (Varoa e Bioengenheiros).
+2. Central de Mecânica (3 trabalhadores humanos).
 
-6. Capela.
+> Produção de ferramentas e manutenção de veículos leves
 
-7. Central de Comunicação.
+> Um caminhão sendo consertado por um cara e uma mina
 
-9. Administração
+> Um cara produzindo ferramentas numa forja
 
-8. Zona da Gabriela.
+> Uma forja
 
-10. Drone-porto.
+3. Central de Manutenção dos Submarinos Autônomos (SA)(3 trabalhadores humanos).
+
+> Separado da central de mecânica somente por uma parede fina
+
+> Bancadas de manutenção dos SA, que possuem 1m.
+
+> Produção e manutenção das ferramentas dos SA, que incluem equipamento de solda, serras de metal, furadeiras
+
+4. Laboratório Extramarino Seco (robótica, eletrônica e estrutural)(2 cientistas humanos).
+
+> Local para pesquisa das coisas (secas) encontradas no Anel, como eletrônicos que não se encaixam nos padrões de nenhuma era anterior, materiais ligeiramente Diferentes
+
+> Local com computadores para análise da telemetria dos submarinos e dados de pesquisa climática e sobre o aumento nível do oceano
+
+> local onde fica a estação de trabalho do Dr. Abeatriz, que contêm logs das conversas dele com o porto de santos e com o pastor, indiciando que foi ele quem descobriu tudo e quem entregou nas mãos do pastor. Também mostra que ele se arrependeu disso.
+
+5. Laboratório Molhado (Varoa e Bioengenheiros)(2 Aquáticos).
+
+> Laboratório para análise dos componentes bioquímicos encontrados perto ou no Anel
+
+> Subsolo: serve como laboratório da Varoa, inclusive, é onde ela leva os bebês "não batizados" e os prepara para criação de corpos reservar pro pastor e prepara a criação de monstros
+
+> -18C
+
+> Grandes e pequenos frascos contendo partes experimentais: focinhos, pernas, patas, olhos, muitos olhos. Reptilianos, mamíferos. A maioria com componentes aquáticos.
+
+> Sucesso com estilo em procurar (6): documentos (interior de um braço) contendo  o processo de criação de filacterias e corpos reservas.
+
+6. Capela (Orquídia ou Adamastor).
+
+> Capela circular com um símbolo da corrente no chão, sem símbolos cristãos.
+
+7. Central de Comunicação (1 cientista).
+
+> Procurar (2) logs de comunicação com o porto de Santos, negociando capacitores de grafeno (feitos em NNi) em troca da construção dos SAs.
+
+> Procurar (4) logs criptografados contendo negociações de entrega de esquemas de segurança de NNi.
+
+8. Administração (1 cientista)
+
+9. Zona da Gabriela (2 aquáticos).
+
+10. Drone-porto (1 cientista e 1 aquático).
 
 ## Ameaças
 
@@ -141,11 +183,11 @@ Como uma chimera marítima, Gabriela é criação da engenharia genética que mi
 
 ### Adamastor, o Animorfo
 
-**Vigor**: 2[] 3[] 4[]
+**Vigor**: 2[x] 3[x] 4[x] 5[x]
 
 **Vontade**: 2[]
 
-**Consequências**: 2[] 4[]
+**Consequências**: 2[x] 4[x] 6[x]
 
 #### Ações
 
@@ -157,7 +199,9 @@ Como uma chimera marítima, Gabriela é criação da engenharia genética que mi
 
 **Corpo Escorregadio**. Vantagem para sair de agarramentos.
 
-**Respiração debaixo d'água**
+**Respiração debaixo d'água**.
+
+---
 
 ### Orquídia, a Cultista
 
@@ -174,3 +218,125 @@ Como uma chimera marítima, Gabriela é criação da engenharia genética que mi
 **Reviver**. Revive temporariamente um corpo (com estresse recuperado, mas todas as consequências).
 
 **Dobra de Sangue**. Controla o sangue da pessoa, paralizando-a. Com um *sucesso com estilo*, pode fazer com que a pessoa realize uma ação.
+
+### Mecha-Pastor Everaldo
+
+Peridot havia usado o poder de Fábio para derrotar Pastor Everaldo.
+Fábio, sabendo disso, mandou uma cópia degradada de seu intelecto para fazer um pacto com o pastor, que entendeu que era a única maneira de ativar o Anel rapidamente. O pastor colocou um neuro-chip em seu novo corpo, com uma versão degradada - mas magicamente capaz - de fábio.
+
+O pastor já usava neurolink para transferir sua mente à corpos novos. A mente original do pastor é preservada na filacteria.
+
+**Vigor**: 2[] 3[]
+
+**Consequências**: 2[] 4[]
+
+#### Ações:
+
+**Relâmpago** (1/cena, +4). O Pastor conjura um relâmpago - em linha - - das pontas de seus dedos.
+
+**Controlar a água**. Controla água o suficiente para deixar o chão de uma área molhada.
+
+**Reviver**. Momentaneamente revive um companheiro caído. Não restaura consequências, só estresse.
+
+**Afogar**. O pastor afoga - ao ar livre - um oponente. Esta ação requer **concentração**. Esta ação causa dano (+0). O jogador deve fazer um teste de resistência em cada turno, que começa com dificuldade 0 e aumenta +2 para cada fracasso. Caso, falhe, ele toma uma consequência em decorrência do oxigênio não chegar no cérebro.
+
+**Chute Pneumático**. Um chute +4 que joga o oponente uma zona para trás.
+
+**Lança-foguete**. Uma lança que é parte do braço e que tem um foguete para impusioná-la.
+
+**Corpo Metálico**. Dureza 2 em acertos não-críticos.
+
+**Pernas Cromadas**. Anda duas zonas por ação, ao invés de uma.
+
+---
+
+### Aquático
+
+Estes humanos foram bio-hackeados mergulhar por horas e suportar grandes pressões. Por consequência, eles tem uma pele que serve como uma armadura natural e são capazes de ficar sem respirar por até 1hora.
+
+#### Perícias
+
+Percepção 3, Magia 2
+
+#### Ações
+
+**Prender Respiração**. Pode prender respiração por 1h. Imune a sufocamento.
+
+**Corpo Escorregadio**. Vantagem para sair de agarramentos.
+
+**Peixeira**. Ataque corpo-a-corpo +2
+
+**Armadura Natural**. O aquático tem redução de dano 2 para qualquer ataque físico.
+
+**Descarga elétrica**. O aquático é capaz de realizar uma descarga elétrica (+4) ao encostar em um inimigo.
+
+# O Anel do Futuro
+
+Para adentrar o Anel, os jogadores precisarão:
+
+1) Terminar o trabalho de isolar o casco do Anel, o que deve levar cerca de um dia, com Peridot controlando os submarinos autônomos e o pessoal do Dr. Abeatriz ajudando.
+
+2) Instalar tanques de oxigênio e controlar a atmosfera do Anel. Levará alguns dias para que os tanques cheguem de NNi.
+
+Alternativamente, os personagens podem usar poucos tanques de oxigênio presentes no Anel para oxigenar algumas salas.
+
+3)
+
+Locais:
+
+1. Ponte de Comando
+
+[Computação +5]
+
+Uma ponte de comando, que quando com energia, a parede é um grande painel de vidro transparente de onde se pode ver o oceano. À frente deste, uma grande mesa com monitores em cima, que pode ser facilmente entendido como um computador, apesar de ser feito de partes esquisitas para o que se tem conhecimento. Quando ligado os monitores dão o seguinte aviso:
+
+"Destruição Iminente do Anel 'Proudhorn'
+
+Causa: causa foi apagada
+
+Consequência: anel irá ter sido destruído em *999,9997* anos
+
+ARMORED-ANTIFA: presente, não ciente.
+
+Sugestão de Ação direta: conscientizar a ARMORED ANTIFA.
+
+...
+
+A ARMORED-ANTIFA foi conscientizada?
+
+[ ] Sim [ ] Não
+
+...
+
+O Autoritarismo foi extinguido de TODAS as realidades?
+
+[ ] Sim [ ] Não
+
+Cursos de Ação Direta Possíveis:
+
+1. Engatar Drive de Salto Espaço-Temporal de Emergência
+
+ [Local: Órbita Estável da Terra 1+223i, 217]
+
+2. Reconstrução Espaço-Temporal de Emergência
+
+Contatar resistência no Império de Nikiti-City, Terra 1+225i, 0
+
+[Imagem: uma grande cidade, com vista para o que se parece a costa do Rio de Janeiro. Muitas cores, música, fala alta.
+Praticamente todos são animais antropomorfizados e andando armados com floretes ou bestas. Muitos usam armaduras. Muitos parecem andar com armaduras uniformizadas entre eles].
+
+3. Contatar ARMORED-ANTIFA LOCAL.
+
+ERRO: CORRUPÇÃO.
+
+Correção: Contatar Eco-Terroristas do Rio de Borean
+
+Imagem: um mapa antigo com um "X" em algum lugar no parque da Tijuca
+
+"
+## Zona Autônoma Persistente Bakunin XXIII
+
+*Órbita da Terra 1+223i*
+
+### Grab Your Gun*, Shoot Da Police, Have Some Fun!
+* Por favor, atenda à nossas aulas de segurança antes de pegar sua arma.
